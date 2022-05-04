@@ -1,4 +1,4 @@
-1. Markup & style: HTML, CSS (Grid/Flexbox)
+1. Markup & style: HTML, CSS (Grid/Flexbox), JS
 2. Methodology & preprocessing: BEM, SASS (SCSS)
 3. Adaptive design
 
